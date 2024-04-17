@@ -137,3 +137,10 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+@media (min-width: 768px){
+    .VPFooter{
+        padding: 6px !important;
+
+    }
+}
+
