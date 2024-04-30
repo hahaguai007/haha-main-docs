@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: 'Java', link: '/java/' },
+      { text: 'Java', link: '/java/lambda' },
       { text: 'JavaScript', link: '/javaScript/' },
     ],
 
@@ -20,8 +20,8 @@ export default defineConfig({
       {
         text: 'Java',
         items: [
-          { text: 'lamda表达式', link: '/java/index' },
-          { text: 'streams', link: '/java/index1' }
+          { text: 'lambda', link: '/java/lambda' },
+          { text: 'streams', link: '/java/streams' }
         ]
       },
       {
