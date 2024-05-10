@@ -21,7 +21,7 @@ export default defineConfig({
         text: 'Java',
         items: [
           { text: 'lambda', link: '/java/lambda' },
-          { text: 'streams', link: '/java/streams' }
+          { text: 'stream', link: '/java/stream' }
         ]
       },
       {
