@@ -13,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'Java', link: '/java/lambda' },
-      { text: 'JavaScript', link: '/javaScript/' },
+      { text: 'JavaScript', link: '/javaScript/compute' },
     ],
 
     sidebar: [
@@ -27,7 +27,12 @@ export default defineConfig({
       {
         text: 'JavaScript',
         items: [
-          { text: '计算', link: '/javaScript/index' },
+          { text: 'Map、Set、数组和对象操作', link: '/javaScript/compute' },
+          { text: 'Map集合', link: '/javaScript/map' },
+          { text: 'Set集合', link: '/javaScript/set' },
+          { text: '数组[]操作', link: '/javaScript/array' },
+          { text: '对象Object操作', link: '/javaScript/object' },
+          { text: 'reduce函数', link: '/javaScript/reduce' },
         ]
       },
       {
