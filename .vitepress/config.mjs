@@ -21,7 +21,8 @@ export default defineConfig({
         text: 'Java',
         items: [
           { text: 'lambda', link: '/java/lambda' },
-          { text: 'stream', link: '/java/stream' }
+          { text: 'stream', link: '/java/stream' },
+          { text: 'SpringBoot项目远程调试', link: '/java/debug-jvm' },
         ]
       },
       {
