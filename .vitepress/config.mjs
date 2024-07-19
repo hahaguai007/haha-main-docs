@@ -14,6 +14,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Java', link: '/java/lambda' },
       { text: 'JavaScript', link: '/javaScript/compute' },
+      { text: '网络', link: '/network/huaiwei' },
     ],
 
     sidebar: [
@@ -34,6 +35,11 @@ export default defineConfig({
           { text: '数组[]操作', link: '/javaScript/array' },
           { text: '对象Object操作', link: '/javaScript/object' },
           { text: 'reduce函数', link: '/javaScript/reduce' },
+        ]
+      },{
+        text: 'network',
+        items: [
+          { text: '华为交换机', link: '/network/huaiwei' },
         ]
       },
       {
