@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "main的文档项目"
+  name: "哈哈哈的文档项目"
   text: "文档站点"
-  tagline: 奥力给
+  tagline: 秀出你的操作
   image:
     src: /node.svg
     alt: 背景图
@@ -23,12 +23,20 @@ features:
     title: Java 💪
     details: 简单又复杂
   - icon:
+      src: /graalvm.svg
+    title: GraalVM 🎯
+    details: 游刃有余
+  - icon:
       src: /js.svg
     title: JavaScript 🚀
     details: 复杂又简单
   - icon:
       src: /vue.svg
     title: Vue 🎯
-    details: 反反复复
+    details: 匆匆忙忙
+  - icon:
+      src: /electron.svg
+    title: Electron 🎯
+    details: 游刃有余
 ---
 
